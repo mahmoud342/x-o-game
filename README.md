@@ -1,6 +1,6 @@
 # x_o_game
 
-A new Flutter project.
+A new Flutter project(X-O Game consist of two players).
 
 ## Getting Started
 
